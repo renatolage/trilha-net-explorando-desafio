@@ -1,0 +1,15 @@
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/obj/Debug/net6.0/Desafio.csproj.AssemblyReference.cache
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/obj/Debug/net6.0/Desafio.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/obj/Debug/net6.0/Desafio.AssemblyInfoInputs.cache
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/obj/Debug/net6.0/Desafio.AssemblyInfo.cs
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/obj/Debug/net6.0/Desafio.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/bin/Debug/net6.0/Desafio
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/bin/Debug/net6.0/Desafio.deps.json
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/bin/Debug/net6.0/Desafio.runtimeconfig.json
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/bin/Debug/net6.0/Desafio.dll
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/bin/Debug/net6.0/ref/Desafio.dll
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/bin/Debug/net6.0/Desafio.pdb
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/obj/Debug/net6.0/Desafio.dll
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/obj/Debug/net6.0/ref/Desafio.dll
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/obj/Debug/net6.0/Desafio.pdb
+/home/renato/Workspace/Cursos-DIO/Curso-CSharp-DIO/trilha-net-explorando-desafio/Desafio/obj/Debug/net6.0/Desafio.genruntimeconfig.cache
